@@ -1,0 +1,254 @@
+{
+  "Barlow": {
+    "fontFamily": "Barlow",
+    "slug": "kubio-Barlow-400-latin",
+    "name": "Barlow",
+    "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+    "fontFace": [
+      {
+        "fontFamily": "Barlow",
+        "fontWeight": "400",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Barlow-400italic-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Barlow",
+        "fontWeight": "700",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Barlow-700italic-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Barlow",
+        "fontWeight": "300",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Barlow-300normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Barlow",
+        "fontWeight": "400",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Barlow-400normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Barlow",
+        "fontWeight": "500",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Barlow-500normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Barlow",
+        "fontWeight": "700",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Barlow-700normal-latin.woff2"
+        ]
+      }
+    ]
+  },
+  "Open Sans": {
+    "fontFamily": "Open Sans",
+    "slug": "kubio-OpenSans-400-latin",
+    "name": "Open Sans",
+    "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+    "fontFace": [
+      {
+        "fontFamily": "Open Sans",
+        "fontWeight": "400",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "OpenSans-400italic-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Open Sans",
+        "fontWeight": "700",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "OpenSans-700italic-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Open Sans",
+        "fontWeight": "300",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "OpenSans-300normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Open Sans",
+        "fontWeight": "400",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "OpenSans-400normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Open Sans",
+        "fontWeight": "500",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "OpenSans-500normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Open Sans",
+        "fontWeight": "700",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "OpenSans-700normal-latin.woff2"
+        ]
+      }
+    ]
+  },
+  "Syne": {
+    "fontFamily": "Syne",
+    "slug": "kubio-Syne-400-latin",
+    "name": "Syne",
+    "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+    "fontFace": [
+      {
+        "fontFamily": "Syne",
+        "fontWeight": "400",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Syne-400normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Syne",
+        "fontWeight": "500",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Syne-500normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Syne",
+        "fontWeight": "700",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Syne-700normal-latin.woff2"
+        ]
+      }
+    ]
+  },
+  "Urbanist": {
+    "fontFamily": "Urbanist",
+    "slug": "kubio-Urbanist-400-latin",
+    "name": "Urbanist",
+    "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+    "fontFace": [
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "400",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-400italic-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "700",
+        "fontStyle": "italic",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-700italic-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "300",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-300normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "400",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-400normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-500normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-600normal-latin.woff2"
+        ]
+      },
+      {
+        "fontFamily": "Urbanist",
+        "fontWeight": "700",
+        "fontStyle": "normal",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "subset": "latin",
+        "src": [
+          "Urbanist-700normal-latin.woff2"
+        ]
+      }
+    ]
+  }
+}
